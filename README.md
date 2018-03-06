@@ -7,3 +7,5 @@
 > 消息的接收者不过到对应的selector，这样就启动了消息转发机制，我们可以通过代码在消息转发的过程中告诉对象应该如何处理未知的消息.
 * [Objective-C 消息发送与转发机制原理](http://yulingtianxia.com/blog/2016/06/15/Objective-C-Message-Sending-and-Forwarding/)
 > 详细讲解Objective-C中消息机制
+* [iOS热修复（热更新）技术预研](http://blog.csdn.net/Lotheve/article/details/53495073)  
+> 比较JsPatch RN/Weex，以及他们在ios平台上实现的基础与思路。
