@@ -9,3 +9,7 @@
 > 详细讲解Objective-C中消息机制
 * [iOS热修复（热更新）技术预研](http://blog.csdn.net/Lotheve/article/details/53495073)  
 > 比较JsPatch RN/Weex，以及他们在ios平台上实现的基础与思路。
+* [React-Native 从入门到原理](http://www.cocoachina.com/ios/20160612/16654.html)
+> React-Native的运行原理
+* [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
+> oc/js 交互的原理
