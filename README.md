@@ -15,3 +15,5 @@
 > oc/js 交互的原理
 * [ios frarmework .a的区别和使用](https://blog.csdn.net/Felicity294250051/article/details/51922205)
 > ios frarmework .a的区别和使用
+* [iOS界面渲染流程分析](http://www.cocoachina.com/ios/20181010/25123.html)
+> iOS界面渲染流程分析
